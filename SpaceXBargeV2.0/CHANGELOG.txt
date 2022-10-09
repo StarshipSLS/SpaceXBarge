@@ -1,0 +1,4 @@
+v2.0 - Added part for VAB
+v2.0.1 - fixed bug with SPH
+v2.1 - Changed texture files to .png, moved both the KK static and part in one folder, removing the need for double texture files. Made some changes to begin the process of making a launch site on a droneship.
+v2.1.1 - added changelog and license
